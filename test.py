@@ -1,5 +1,5 @@
 import mysql.connector
-conn = mysql.connector.connect(host='localhost',user='root',database='bill',passwd='krpabhi9876')
+conn = mysql.connector.connect(host='localhost',user='root',database='bill',passwd='*********')
 cur = conn.cursor()
 
 vend_li = [("Dhanpat Rai",4000),("S-Chand",2000),("Oxford",5000),("Cambridge",6000)]
