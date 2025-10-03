@@ -1,5 +1,5 @@
 # Bill-Generator
----
+
 Bill Generating and Inventory Management System is a software used
 to comfort the shopkeeper or any one running their commercial entity ,
 which allows them to seamlessly manage their data of their products
