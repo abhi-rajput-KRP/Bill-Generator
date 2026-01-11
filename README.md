@@ -7,6 +7,7 @@ with their prices , and vendors and also allows them to generate the bill
 for the customer to manage their billing task comfortably. With all this
 It also allows shopkeepers to add new vendors and to maintain the
 record of dues and payments of each vendor.
+
 ---
 ## Here are some features of this Bill-Managemengt System 
 1 : Add new product with it’s price in records easily.
